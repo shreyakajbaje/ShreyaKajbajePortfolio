@@ -306,7 +306,7 @@ p {
 
 .container {
     width: 100%;
-    /* padding-bottom: 30px; */
+    padding-bottom: 30px;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
@@ -542,7 +542,7 @@ img {
             color: #efefef !important;
             background-attachment: fixed;
             padding-top: 50px;
-            padding-bottom: 50px;
+            padding-bottom: 30px;
         }
 
         #portfolio {
@@ -2415,8 +2415,8 @@ h2 {
   /* Create four equal columns that sits next to each other */
   .column {
     flex: 25%;
-    max-width: 25%;
-    padding: 0 4px;
+    max-width: 50%;
+    padding: 20 40px;
   }
   
   .column img {
